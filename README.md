@@ -1,2 +1,1 @@
-# PrepCourse-AR
-modulo 2 de henry
+Proyecto para crear repositorio y clonar de github a pc
